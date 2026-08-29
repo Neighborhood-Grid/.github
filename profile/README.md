@@ -14,7 +14,6 @@ The project is split into two repositories:
 
 Theoretical background:
 
-For Neighborhood Grid: Skrodzki, Reitebuch, Polthier, arXiv:1710.03435, 2018 (expanded in: Skrodzki, PhD thesis, Freie Universität Berlin, 2019).
-See also Monotonic Lagrangian Grid and extensions https://www.sciencedirect.com/science/article/abs/pii/0021999187901136
-    
+For neighborhood grid: Skrodzki, Reitebuch, Polthier, arXiv:1710.03435, 2018 (expanded in: Skrodzki, PhD thesis, Freie Universität Berlin, 2019).
+See also Kaplan, C., Dahm, J., Oran, E., Alexandrov, N., & Boris, J. (2010). The Monotonic Lagrangian Grid for rapid air-traffic evaluation. AIAA Paper 2010-9336 for monotonic lagrangian grid and extensions 
 ![Neighborhood grid](https://raw.githubusercontent.com/Neighborhood-grid/.github/main/mesh.jpg)
