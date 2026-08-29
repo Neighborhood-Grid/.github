@@ -14,7 +14,7 @@ The project is split into two repositories:
 
 Theoretical background:
 
-Skrodzki, Reitebuch, Polthier, arXiv:1710.03435, 2018 (expanded in: Skrodzki, PhD thesis, Freie Universität Berlin, 2019). 
-See also Monotonic Lagrangian Grid and similar concepts
+For Neighborhood Grid: Skrodzki, Reitebuch, Polthier, arXiv:1710.03435, 2018 (expanded in: Skrodzki, PhD thesis, Freie Universität Berlin, 2019).
+See also Monotonic Lagrangian Grid and extensions https://www.sciencedirect.com/science/article/abs/pii/0021999187901136
     
 ![Neighborhood grid](https://raw.githubusercontent.com/Neighborhood-grid/.github/main/mesh.jpg)
