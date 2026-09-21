@@ -7,9 +7,10 @@ Thus a neighborhood-grid is nothing more but a multi-dimensional sorting algorit
 
 
 
-The project is split into two repositories:
+The project is split into three repositories:
 
-- [Squarenet](https://github.com/Neighborhood-grid/SquareNet): Python implementation for converting $[N,D]$ point clouds into structured grids.
+- [Squarenet](https://github.com/Neighborhood-grid/SquareNet): Old Python implementation for converting $[N,D]$ point clouds into structured grids.
+- [CubeNet](https://github.com/Neighborhood-grid/CubeNet): enhanced version.
 - [Cartesian Grid Sort](https://github.com/Neighborhood-grid/Cartesian-Grid-Sort): mathematical details of the optimization algorithm.
 
 Theoretical background:
